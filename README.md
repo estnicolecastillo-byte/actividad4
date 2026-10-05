@@ -21,6 +21,9 @@ Este proyecto implementa un sistema en tiempo real para el control de iluminaci�
 | 👍 **Pulgar Arriba** | `Thumb_Up` | `'E'` | **Segunda Interrupción:** Secuencia de luces (Modo 2) |
 
 ---
+## 💻 evidencias
+<img width="435" height="723" alt="image" src="https://github.com/user-attachments/assets/dd19526b-50f2-4aec-abac-e3734e73c8ef" />
+<img width="1884" height="987" alt="image" src="https://github.com/user-attachments/assets/3c9af381-eeeb-4b9f-9fe4-11af4b8b26dd" />
 
 ## 🖐️ Puntos de Referencia de la Mano (Landmarks)
 
@@ -227,8 +230,5 @@ void loop() {
     }
   }
 }
-## 💻 evidencias
-<img width="435" height="723" alt="image" src="https://github.com/user-attachments/assets/dd19526b-50f2-4aec-abac-e3734e73c8ef" />
-<img width="1884" height="987" alt="image" src="https://github.com/user-attachments/assets/3c9af381-eeeb-4b9f-9fe4-11af4b8b26dd" />
 
 
