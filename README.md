@@ -1,4 +1,6 @@
 # 🖐️ Sistema de Control de Iluminación Basado en Gestos con ESP32
+# Kevin Alejandro Vega Medina
+# Nicole Natalia Castillo
 
 **Universidad Militar Nueva Granada**  
 **Proyecto:** Sistema de control de iluminación mediante visión artificial y microcontrolador ESP32.
